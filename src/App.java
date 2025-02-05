@@ -11,5 +11,5 @@ public class App {
         horas=minutos/60.0;
         dias=horas/24.0;
         System.out.println("Son "+minutos+" minutos, "+horas+" horas y "+dias+" dias");//comentario
-    }
+    }//otro cambio
 }
